@@ -1,0 +1,9 @@
+LIBRARY "MyAsmLib"
+
+EXPORTS
+    ComputeHistogramAsm
+    AddTwoIntsAsm
+    ByteBoundAsm
+    NormalizeKernelAsm
+    ConvolvePixelAsm
+    
